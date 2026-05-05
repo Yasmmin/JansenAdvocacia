@@ -23,7 +23,7 @@ export default function Contact() {
             ATENDIMENTO VIA WHATSAPP
           </a>
           <a
-            href="tel:+555192704540"
+            href="tel:+555121171862"
             className="px-6 py-3 border border-white/40 text-white text-[11px] tracking-[0.2em] font-semibold hover:border-gold hover:text-gold transition-colors"
           >
             LIGAR AGORA
